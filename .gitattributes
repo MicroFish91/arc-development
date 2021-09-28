@@ -1,1 +1,3 @@
 src/animations/** linguist-vendored
+src/assets/** linguist-vendored
+public/** linguist-vendored
